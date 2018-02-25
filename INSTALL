@@ -1,0 +1,9 @@
+Building SeikoCoin
+
+See doc/readme-qt.rst for instructions on building SeikoCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SeikoCoin.
+
+See doc/build-*.txt for instructions on building seikocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of SeikoCoin.
